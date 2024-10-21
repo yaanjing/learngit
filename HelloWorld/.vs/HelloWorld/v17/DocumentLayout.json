@@ -1,9 +1,9 @@
 {
   "Version": 1,
-  "WorkspaceRootPath": "E:\\learngit\\HelloWorld\\",
+  "WorkspaceRootPath": "D:\\learngit\\HelloWorld\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{F8CF10D2-B1CA-4262-83B5-3203C3670D00}|HelloWorld\\HelloWorld.vcxproj|E:\\learngit\\HelloWorld\\HelloWorld\\Hello.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "AbsoluteMoniker": "D:0:0:{F8CF10D2-B1CA-4262-83B5-3203C3670D00}|HelloWorld\\HelloWorld.vcxproj|D:\\learngit\\HelloWorld\\HelloWorld\\Hello.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
       "RelativeMoniker": "D:0:0:{F8CF10D2-B1CA-4262-83B5-3203C3670D00}|HelloWorld\\HelloWorld.vcxproj|solutionrelative:HelloWorld\\Hello.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
     }
   ],
@@ -24,11 +24,11 @@
               "$type": "Document",
               "DocumentIndex": 0,
               "Title": "Hello.cpp",
-              "DocumentMoniker": "E:\\learngit\\HelloWorld\\HelloWorld\\Hello.cpp",
+              "DocumentMoniker": "D:\\learngit\\HelloWorld\\HelloWorld\\Hello.cpp",
               "RelativeDocumentMoniker": "HelloWorld\\Hello.cpp",
-              "ToolTip": "E:\\learngit\\HelloWorld\\HelloWorld\\Hello.cpp",
+              "ToolTip": "D:\\learngit\\HelloWorld\\HelloWorld\\Hello.cpp",
               "RelativeToolTip": "HelloWorld\\Hello.cpp",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAYAAAAxAAAA",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAcAAAAfAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
               "WhenOpened": "2024-10-21T09:56:53.009Z",
               "EditorCaption": ""
